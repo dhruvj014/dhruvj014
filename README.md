@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvj014&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvj014" /> </p>
 
-- 🔭 I’m currently working on **a self-hosted local storage application in React and Javascript **
+- 🔭 I’m currently working on **a self-hosted local storage application in React and Javascript**
 
 - 🌱 I’m currently learning **Software Development, Front-end as well as Machine Learning**
 
