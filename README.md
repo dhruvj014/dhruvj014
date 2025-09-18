@@ -1,15 +1,14 @@
-[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://rishavchanda.io)
 <h1 align="center">Hey, I'm Dhruv Jain</h1>
-<h3 align="center">An engineering student with a thirst for knowledge and a passion for coding</h3>
+<h3 align="center">Currenly pursuing my Master of Science in Software Engineering from San Jose State University with a thirst for knowledge and a passion for coding</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQyOWFiODY2ZjZiNWU5YmI4OGJjNjhhZmUwN2VmNjBlZjFkNmE5YSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvj014&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvj014" /> </p>
 
-- 🔭 I’m currently working on **an Innovative Voice Assistant for Desktops**
+- 🔭 I’m currently working on **a self-hosted local storage application in React and Javascript **
 
-- 🌱 I’m currently learning **Machine Learning and Web Dev**
+- 🌱 I’m currently learning **Software Development, Front-end as well as Machine Learning**
 
-- 💬 Ask me about **Python , C , ML**
+- 💬 Ask me about **Python, Java, Machine Learning**
 
 - 📫 How to reach me **dhruv.j314@gmail.com**
 
